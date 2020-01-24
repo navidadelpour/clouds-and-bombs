@@ -23,19 +23,19 @@ This game is presented in [cafebazar](https://cafebazaar.ir) for free!
 ## Screenshots
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/navidadelpour/clouds-and-bombs/master/Assets/ScreenShots/1.jpg" />
+  <img width="200" src="https://raw.githubusercontent.com/navidadelpour/clouds-and-bombs/master/Assets/ScreenShots/1.jpg" />
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/navidadelpour/clouds-and-bombs/master/Assets/ScreenShots/2.jpg" />
+  <img width="200" src="https://raw.githubusercontent.com/navidadelpour/clouds-and-bombs/master/Assets/ScreenShots/2.jpg" />
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/navidadelpour/clouds-and-bombs/master/Assets/ScreenShots/3.jpg" />
+  <img width="200" src="https://raw.githubusercontent.com/navidadelpour/clouds-and-bombs/master/Assets/ScreenShots/3.jpg" />
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/navidadelpour/clouds-and-bombs/master/Assets/ScreenShots/4.jpg" />
+  <img width="200" src="https://raw.githubusercontent.com/navidadelpour/clouds-and-bombs/master/Assets/ScreenShots/4.jpg" />
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/navidadelpour/clouds-and-bombs/master/Assets/ScreenShots/5.jpg" />
+  <img width="200" src="https://raw.githubusercontent.com/navidadelpour/clouds-and-bombs/master/Assets/ScreenShots/5.jpg" />
 </p>
 
 
