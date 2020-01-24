@@ -37,10 +37,6 @@ This game is presented in [cafebazar](https://cafebazaar.ir) for free!
 <p align="center">
   <img src="https://raw.githubusercontent.com/navidadelpour/clouds-and-bombs/master/Assets/ScreenShots/5.jpg" />
 </p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/navidadelpour/clouds-and-bombs/master/Assets/ScreenShots/5.jpg" />
-</p>
-
 
 
 ## Credits
