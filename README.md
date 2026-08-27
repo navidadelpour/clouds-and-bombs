@@ -1,22 +1,31 @@
 # clouds-and-bombs
-zig-zag like game in unity
+
+A zig-zag style runner made in [Unity](https://unity3d.com/).
 
 ## Description
 
-how far you can reach? :)
+How far can you reach? Evade the bombs and collect as many stars as you can along the way.
 
-evade the bombs and take the stars as much as you can
+- Different themes
+- Endless, increasing-difficulty gameplay
+- Beautiful, low-poly environment
 
-<ul>
-<li>different themes</li>
-<li>awesome game play</li> 
-<li>beautiful environment</li>
-</ul>
+## Controls
 
+- Left click / tap: turn the ball onto the next path
+- Right click / tap: jump over bombs
+
+## Tech
+
+The ball's speed ramps up gradually as the run continues (via a `difficulter` value fed into `GameManager`), so runs get harder the longer you survive. Jumps and falls are eased with `Vector3.Lerp`/`Quaternion.Lerp` rather than raw physics forces, which is what gives the movement its snappy, arcade feel instead of a floaty rigidbody.
+
+## Requirements
+
+- Unity 5.6.0f3 (or newer)
 
 ## Download
 
-This game is presented in [cafebazar](https://cafebazaar.ir) for free!
+This game is presented on [Cafe Bazaar](https://cafebazaar.ir) for free!
 
 [Download link](https://cafebazaar.ir/app/com.NavidAdelpour.CloudsAndBombs/)
 
